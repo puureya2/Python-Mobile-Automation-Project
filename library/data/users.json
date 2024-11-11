@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "0",
+        "tags" : { "signed_up" : false, 
+                    "onboarded": false },
+        "rmo applications" : {  },
+        "email" : "",
+        "password" : "Password@123",
+        "first_name" : "Test",
+        "last_name" : "Bot",
+        "date_of_birth": { "month" : "", 
+                            "day" : "", 
+                            "year" : "" },
+        "gender" : ""
+    }
+]
+
